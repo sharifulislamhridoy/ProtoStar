@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1006885086812",
+    "firebase_url": "https://protostarfinal.firebaseio.com",
+    "project_id": "protostarfinal",
+    "storage_bucket": "protostarfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006885086812:android:a476ca1a100ec2487a6899",
+        "android_client_info": {
+          "package_name": "com.Shariful.ProtoStar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006885086812-fph799b7cppo57mb45gutu25tgbqkjnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAET55FQNr4UzTQWbZrw8K86itIYji-9JI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006885086812-fph799b7cppo57mb45gutu25tgbqkjnv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
